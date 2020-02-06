@@ -1,7 +1,7 @@
-# flutterChatbot
-A Chat bot application using flutter and Google Dialogflow
+# FlutterChatbot
+A Chat bot application using Flutter and Google Dialogflow
 
-## prerequisite
+## Prerequisite
 
 - Register and create an agent in Google Dialogflow.
 https://dialogflow.cloud.google.com/
@@ -10,9 +10,9 @@ https://dialogflow.cloud.google.com/
 https://console.cloud.google.com/
 
 
-## Build and Agent in Dialogflow
+## Build an Agent in Dialogflow
 
-Creating an agent, adding an intentand tranining intent documentation is available under below url,
+Creating an agent, adding an intent and training an intent documentation is available under below url,
 
 https://cloud.google.com/dialogflow/docs/quick/build-agent
 
@@ -24,7 +24,7 @@ After creating an agent in Dialogflow, get service account key in Google Cloud P
 
 https://dialogflow.com/docs/reference/v2-auth-setup
 
-NOTE:
+## NOTE
 Download and replace credentials.json with your json, in demo project folder path "assets/credentials.json"
 
 
