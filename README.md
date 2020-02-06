@@ -30,4 +30,4 @@ Download and replace credentials.json with your json, in demo project folder pat
 
 ## Demo App Screen
 
-https://github.com/shynubooshnan/flutterChatbot/blob/master/Screenshot_20200206-153034.jpg
+![Optional ChatBot](https://github.com/shynubooshnan/flutterChatbot/blob/master/Screenshot_20200206-153034.jpg)
